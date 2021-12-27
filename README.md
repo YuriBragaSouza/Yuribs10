@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuri
 - 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas.
-- 💞️ I’m looking to collaborate on front end e banco de dados mysql...
+- 💞️ I’m looking to collaborate on front e back end.
 - 📫 How to reach me: "yuribragasouza0@gmail.com" ...
 
 <!---
