@@ -1,3 +1,4 @@
 - 👋 Olá me chamo @Yuri,
 - 🌱  Formado em Análise e Desenvolvimento de Sistemas.
 - 📫 Meu atual email: "yuribragasouza0@gmail.com" ...
+- E um prazer ter você aqui comigo.
